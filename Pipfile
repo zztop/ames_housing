@@ -6,6 +6,13 @@ name = "pypi"
 [dev-packages]
 
 [packages]
+jupyter = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+sklearn = "*"
+seaborn = "*"
+xgboost = "*"
 
 [requires]
 python_version = "3.6"
